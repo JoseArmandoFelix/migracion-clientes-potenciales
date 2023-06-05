@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 - HTML
 - SCSS
 - JavaScript
-- Express
+- Expressg
 - Prismic
 - d3.js
 
