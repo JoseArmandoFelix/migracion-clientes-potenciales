@@ -2,7 +2,7 @@
 
 <!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
 
-This project is visual storytelling and interactive data visualization for Coppel where we see the
+This project is visually engaging storytelling and interactive data visualization where we analyze data data collected over time to generate a comprehensive and insightful exploration of clientes potenciales (potetial client) migration trends from Coppel, a leading retail and financial services company.
 
 ## Demo
 
@@ -12,7 +12,7 @@ Check out the live demo of the project: TBD<!-- [Demo Link](https://your-website
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/JoseArmandoFelix/cercas-humaya.git`
+1. Clone the repository: `git clone https://github.com/JoseArmandoFelix/migracion-clientes-potenciales.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
