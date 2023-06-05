@@ -1,0 +1,19 @@
+{
+  "name": "migracion-clientes-potenciales",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "d3": "^7.8.4",
+    "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "@observablehq/runtime": "^5.7.0",
+    "f3c9532ccb6fcc8f": "https://api.observablehq.com/d/f3c9532ccb6fcc8f@660.tgz?v=3"
+  }
+}
