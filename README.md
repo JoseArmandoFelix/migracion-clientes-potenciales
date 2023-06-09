@@ -2,7 +2,7 @@
 
 <!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
 
-This project is visually engaging storytelling and interactive data visualization where we analyze data data collected over time to generate a comprehensive and insightful exploration of clientes potenciales (potetial client) migration trends from Coppel, a leading retail and financial services company.
+This project is a visually engaging storytelling and interactive data visualization where I analyze data collected over time to generate a comprehensive and insightful exploration of potetial clients (clientes potenciales) migration trends from Coppel, a leading retail, e-commerce, and financial services company.
 
 ## Demo
 
